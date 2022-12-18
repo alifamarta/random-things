@@ -2,7 +2,7 @@ a = {
     "nama" : "Amamiya Ren ",
     "nickname" : "Joker",
     "umur" : 18,
-    "hobi" : ["Nyopet","Nyium ketek Makoto Nijima"],
+    "hobi" : ["Nyopet"],
     "sosmed" : {
         "Facebook" : "Amamiya Ren Menolak Murtad Jr.",
         "twitter" : "Jokahh23",
